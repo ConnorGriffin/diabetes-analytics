@@ -1,0 +1,9 @@
+# Diabetes Analysis
+
+Data science on my personal diabetes data. 
+
+I use Cronometer to track food intake, and Tandem t:connect with Control IQ for insulin data. 
+
+Outside of the existing closed loop systems, it seems there is no way for 
+an individual to merge food and insulin data. I aim to create a way to merge 
+this data and analyze it to better tailor my pump settings. 
